@@ -1,4 +1,4 @@
-import typer
+# import typer
 from rich.console import Console
 from rich.table import Table
 from contact_book.model import Contact
