@@ -1,4 +1,4 @@
-from typing import List
+# from typing import List
 import datetime
 from contact_book.model import Contact
 from contact_book import db, ContactQuery
